@@ -3,9 +3,9 @@
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
   <img src="./link-legend-of-zelda.gif" alt="Hello" width="200" height="179"/>
   <div style="display: flex; justify-content: center; align-items: center">
-    <img src="./reactjs.gif" alt="ReactJS" width="30" height="30"/> 
+    <img src="./reactjsgif.gif" alt="ReactJS" width="30" height="30"/> 
     <span align="center">A javaScript fanatic from Paris !</span>
-    <img src="./reactjs.gif" alt="ReactJs" width="30" height="30"/> 
+    <img src="./reactjsgif.gif" alt="ReactJs" width="30" height="30"/> 
   </div>
 
 </div>
