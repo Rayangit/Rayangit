@@ -1,9 +1,6 @@
 
   <h1 align="center">Hi I'm Rayan KEDDACHE</h1>
-  <div style="display: flex; justify-content: center; align-items: center">
-    <img src="./reactjsgif.gif" alt="ReactJS" width="24" height="24"/> 
-    <p style="margin-left: 8px; font-size: 24px;">A javaScript fanatic from Paris !</p>
-  </div>
+  <h3><img src="./reactjsgif.gif" alt="ReactJS" width="24" height="24"/> A javaScript fanatic from Paris !</h3>
 
 - 👯 I’m looking to collaborate on **React, React Native projects**
 
