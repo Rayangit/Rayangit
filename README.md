@@ -1,12 +1,9 @@
 
-  <h1 align="center">Hi I'm Rayan</h1>
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+  <h1 align="center">Hi I'm Rayan KEDDACHE</h1>
   <div style="display: flex; justify-content: center; align-items: center">
     <img src="./reactjsgif.gif" alt="ReactJS" width="24" height="24"/> 
-    <b style="margin-left: 8px; font-size: 15px;">A javaScript fanatic from Paris !</b>
+    <p style="margin-left: 8px; font-size: 24px;">A javaScript fanatic from Paris !</p>
   </div>
-
-</div>
 
 - 👯 I’m looking to collaborate on **React, React Native projects**
 
