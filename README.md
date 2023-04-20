@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rayan</h1>
+<img src="./link-legend-of-zelda.gif" alt="git" width="200" height="179"/> 
 <h3 align="center">A javaScript fanatic from Paris !</h3>
 
 - 👯 I’m looking to collaborate on **React, React Native projects**
