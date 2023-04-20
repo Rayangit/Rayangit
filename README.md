@@ -3,8 +3,7 @@
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
   <div style="display: flex; justify-content: center; align-items: center">
     <img src="./reactjsgif.gif" alt="ReactJS" width="24" height="24"/> 
-    <h3 style="width: margin: 0 10px; font-weight: bold; font-size: 15px;">A javaScript fanatic from Paris !</h3>
-    <img src="./reactjsgif.gif" alt="ReactJs" width="24" height="24"/> 
+    <b style="margin-left: 8px; font-size: 15px;">A javaScript fanatic from Paris !</b>
   </div>
 
 </div>
