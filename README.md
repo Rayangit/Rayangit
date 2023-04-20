@@ -1,6 +1,12 @@
-<h1 align="center">Hi 👋, I'm Rayan</h1>
-<img src="./link-legend-of-zelda.gif" alt="git" width="200" height="179"/> 
-<h3 align="center">A javaScript fanatic from Paris !</h3>
+<div style="display: flex; justify-content: center; align-items: center">
+  <img src="./reactjs.gif" alt="ReactJS" width="30" height="30"/> 
+  <h1 align="center">Hi I'm Rayan</h1>
+  <img src="./reactjs.gif" alt="ReactJs" width="30" height="30"/> 
+</div>
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+  <img src="./link-legend-of-zelda.gif" alt="Hello" width="200" height="179"/> 
+  <h3 align="center">A javaScript fanatic from Paris !</h3>
+</div>
 
 - 👯 I’m looking to collaborate on **React, React Native projects**
 
